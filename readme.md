@@ -18,13 +18,13 @@ Not at all related to the "official" Cub, Boy or Girl Scouts. Merely inspired by
 
   No flags. No pledges. No allegiance to nations or states. State lines do not matter.
 
-* **Gender Neutrality**
-
-  Boys and girls and everywhere in between.
-
 * **No Military Subtext**
 
   No salutes. No uniforms. This is not the training program for the armed forces.
+
+* **Gender Neutrality**
+
+  Boys and girls and everywhere in between.
 
 * **Skills First**
 

@@ -26,8 +26,16 @@ Not at all related to the "official" Cub, Boy or Girl Scouts. Merely inspired by
 
   No salutes. No uniforms. This is not the training program for the armed forces.
 
+* **Skills First**
+
+  The ability to survive is the primary objective. Things like flying kites and building race cars are a distant secondary (or probably tertiary, maybe quaternary) objective.
+
 ## Goals
 The **ultimate goal** is a printed book that we can carry with us to help us learn survival skills in different situations.
+
+Intermediate goals include developing a collection of skill-shares covering the core survival needs: shelter, water, food, first aid. Then expanding those to cover various contexts (e.g., cold climate vs warm climate). Then adding a kind of *standard library* of expansion pack skill-shares that can be tied together or read independently (e.g., orienteering, cartography, fire making, clothes/shoe making, knot tying, tree climbing, boating, etc).
+
+Immediate goals are a two fold: a list of skills and field testing said skills.
 
 ## License
 [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/ "license")

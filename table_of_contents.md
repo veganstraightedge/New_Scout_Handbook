@@ -8,15 +8,15 @@
 
 ## Foundation
 * Emergency Shelter
-  * Bough Shelter
-  * Root Shelter
-  * Natural Hollow
-  * Fallen Trunk
-  * Stone Barriers
-  * Sapling Shelter
   * Bashas
-  * Tepees
+  * Bough Shelter
+  * Fallen Trunk
+  * Natural Hollow
+  * Root Shelter
+  * Sapling Shelter
   * Snow Caves
+  * Stone Barriers
+  * Tepees
 * Food
   * Botany
   * Foraging
@@ -101,7 +101,7 @@
   * Heavy Gloves
   * Hoes
   * Jig Saws
-  * Nails, Screws, Nuts, Bolts (Misc Sizes and Types: Wood, Metal, Etc)
+  * Nails, Screws, Nuts, Bolts (Misc Sizes and Types: Wood, Metal, etc)
   * Pickaxe
   * Scrapers
   * Screwdrivers (Flat Head and Phillips)
@@ -144,7 +144,7 @@
   * Duct Tape (Yes, I Already Hear the Jokes, but This Stuff Is Good)
   * Electrical Tape
   * Fabric
-  * Field Guides; Local Edibles, Medicinals, Etc
+  * Field Guides; Local Edibles, Medicinals, etc
   * First Aid Supplies
   * Knife / Tool Sharpener
   * Knives
@@ -156,7 +156,7 @@
   * Paper, Notebooks
   * Patches. Any Old Clothing
   * Pens, Pencils
-  * Rechargeable Batteries; Aaa, Aa, 9V, C, D
+  * Rechargeable Batteries; AAA, AA, 9V, C, D
   * Rechargeable Flashlights
   * Rope
   * Rubber Bands
@@ -165,11 +165,11 @@
   * Sewing Supplies
   * Shaving Razors
   * Sleeping Bags
-  * Solar Power Gear; PV Panels, Etc
+  * Solar Power Gear; PV Panels, etc
   * Staples, Staplers, Staple Guns
   * String / Cord
   * Super Glue
-  * Tampons, Glad Rags, Etc
+  * Tampons, Glad Rags, etc
   * Toilet Paper
   * Toothpaste
   * Walkie-Talkies

@@ -27,8 +27,11 @@ Not at all related to the "official" Cub, Boy or Girl Scouts. Merely inspired by
   No salutes. No uniforms. This is not the training program for the armed forces.
 
 ## Goals
-
+The **ultimate goal** is a printed book that we can carry with us to help us learn survival skills in different situations.
 
 ## License
-
 [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/ "license")
+
+That means you can do anything with the contents of this book and project (including using parts of it, modifying and redistributing some or all of it, even selling it) as long as you attribute this project as the source of the content and that you, in turn, share what your changes or publications as well.
+
+Learn more about [Creative Commons](http://creativecommons.org) at <http://creativecommons.org/>.

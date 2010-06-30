@@ -42,4 +42,4 @@ Immediate goals are a two fold: a list of skills and field testing said skills.
 
 That means you can do anything with the contents of this book and project (including using parts of it, modifying and redistributing some or all of it, even selling it) as long as you attribute this project as the source of the content and that you, in turn, share what your changes or publications as well.
 
-Learn more about [Creative Commons](http://creativecommons.org) at http://creativecommons.org.
+Learn more about [Creative Commons](http://creativecommons.org) at <http://creativecommons.org>.

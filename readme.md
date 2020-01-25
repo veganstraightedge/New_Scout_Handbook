@@ -1,4 +1,5 @@
 # A New Scout Handbook
+
 Not at all related to the "official" Cub, Boy or Girl Scouts. Merely inspired by my childhood experience in the Cub Scouts and Boy Scouts. A wilderness and urban survival manual for kids and adults alike without the hangups of the Cub/Boy/Girl Scouts.
 
 ## Ideals
